@@ -33,7 +33,6 @@ h5 {
   text-align: center;
   padding-top: 0.4rem;
   padding-bottom: 0.4rem;
-  font-family: HYQiHei-55;
   font-size: 0.12rem;
   letter-spacing: 0.0044rem;
 }
@@ -51,7 +50,6 @@ h5 {
   width: 3.1rem;
   text-align: left;
   margin: 0.26rem auto 0;
-  font-family: HYQiHei-55;
   font-size: 0.14rem;
   color: #6D7075;
   letter-spacing: 0;
@@ -61,7 +59,6 @@ h5 {
   width: 3.1rem;
   text-align: left;
   margin: 0.26rem auto 0.1rem;
-  font-family: HYQiHei-55;
   font-size: 0.14rem;
   color: #6D7075;
   letter-spacing: 0;
@@ -71,7 +68,6 @@ h5 {
   width: 3.1rem;
   text-align: left;
   margin: 0.14rem auto 0;
-  font-family: HYQiHei-55;
   font-size: 0.14rem;
   color: #9DA2AD;
   letter-spacing: 0;
@@ -81,7 +77,6 @@ h5 {
   width: 3.1rem;
   text-align: center;
   margin: 0.3rem auto 0;
-  font-family: HYQiHei-55;
   line-height: 0.24rem;
   font-size: 0.14rem;
   color: #6D7075;
@@ -93,7 +88,6 @@ h5 {
   margin: 0.14rem auto 0;
   color: #9DA2AD;
   font-size: 0.14rem;
-  font-family: HYQiHei-55;
   letter-spacing: 0;
   line-height: 0.24rem;
 }
@@ -102,7 +96,6 @@ h5 {
   text-align: center;
   margin: 0.5rem auto -0.1rem;
   line-height: 0.32rem;
-  font-family: HYQiHei-55;
   font-size: 0.18rem;
   color: #464D5C;
   letter-spacing: 0.0192rem;
@@ -121,13 +114,11 @@ h5 {
   border-top: none;
 }
 .mobile .landing-page .child-page .item-list .infoTitle {
-  font-family: HYQiHei-60;
   font-size: 0.18rem;
   color: #464D5C;
   letter-spacing: 0.0192rem;
 }
 .mobile .landing-page .child-page .item-list .infoInfo {
-  font-family: HYQiHei-55;
   font-size: 0.14rem;
   color: #6D7075;
   letter-spacing: 0;
@@ -137,7 +128,6 @@ h5 {
   text-align: left;
 }
 .mobile .landing-page .child-page .item-list .infoInfo h5 {
-  font-family: HYQiHei-60;
   text-align: left;
   font-size: 0.14rem;
   color: #464D5C;
@@ -145,7 +135,6 @@ h5 {
   margin-top: 0.26rem;
 }
 .mobile .landing-page .child-page .item-list .infoInfo p {
-  font-family: HYQiHei-55;
   line-height: 0.24rem;
   margin-top: 0.1rem;
   width: 3.1rem;

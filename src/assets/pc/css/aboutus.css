@@ -41,8 +41,8 @@ h5 {
     height: auto;
     padding-top: .6rem;
     padding-bottom: .8rem;
-    font-family: Montserrat;
     letter-spacing: .0052rem;
+    font-weight: 600;
 }
 
 .footerCommon.active {
@@ -60,7 +60,6 @@ h5 {
     margin: .6rem auto -.4rem;
     color: #6d7075;
     font-size: .16rem;
-    font-family: HYQiHei-55;
     line-height: .32rem;
 }
 
@@ -70,7 +69,6 @@ h5 {
     margin: .6rem auto 0;
     color: #6d7075;
     font-size: .16rem;
-    font-family: HYQiHei-55
 }
 
 .landing-page .child-page .second-describThird {
@@ -79,7 +77,6 @@ h5 {
     margin: .45rem auto 0;
     color: #6d7075;
     font-size: .16rem;
-    font-family: HYQiHei-55
 }
 
 .landing-page .child-page .second-describ {
@@ -88,7 +85,6 @@ h5 {
     margin: .3rem auto 0;
     color: #6d7075;
     font-size: .16rem;
-    font-family: HYQiHei-55
 }
 
 .landing-page .child-page .second-title {
@@ -97,7 +93,6 @@ h5 {
     margin: 1.2rem auto -.3rem;
     font-size: .28rem;
     line-height: .32rem;
-    font-family: HYQiHei-55
 }
 
 .landing-page .child-page .item-list {
@@ -123,7 +118,6 @@ h5 {
 }
 
 .landing-page .child-page .item-list .about-left h4 {
-    font-family: HYQiHei-60;
     font-size: .24rem;
     color: #464D5C;
     letter-spacing: .0025rem;
@@ -140,7 +134,6 @@ h5 {
     font-size: .16rem;
     line-height: .32rem;
     margin-top: 0;
-    font-family: HYQiHei-55;
     letter-spacing: 0;
 }
 
@@ -149,7 +142,6 @@ h5 {
     color: #464d5c;
     margin-top: .3rem;
     margin-bottom: .15rem;
-    font-family: HYQiHei-60;
     letter-spacing: 0;
 }
 
