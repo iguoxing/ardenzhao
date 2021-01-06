@@ -1,4 +1,8 @@
 @charset "UTF-8";
+html.landscape{
+    position: absolute;
+    overflow-x: hidden;
+}
 a {
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
