@@ -10,13 +10,11 @@
 }
 .mtIndexTitle .bigTitle {
     font-size: .48rem;
-    font-family: HYQiHei-55;
 }
 
 .mtIndexTitle .smallTitle {
     margin-top: .1rem;
     font-size: .16rem;
-    font-family: HYQiHei-45;
     color: #FFFFFF;
     letter-spacing: .032rem;
 }

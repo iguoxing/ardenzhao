@@ -116,7 +116,7 @@
                     <footer class="footerCommon active">
                         <div class="container">
                             <router-link to="/"><a class="icon-logo" href="javascript:;"></a></router-link>
-                            <div class="bar-item copy-right">@2020 ZhaoGuoxing Inc.</div>
+                            <div class="bar-item copy-right">@{{year}} ZhaoGuoxing Inc.</div>
                         </div>
                     </footer>
                 </div>
@@ -127,12 +127,10 @@
 
 <script>
 export default {
-  name: 'hello',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App in 2017-07-13'
+    // 接受父组件的值
+    props: {
+      'year': Number
     }
-  }
 }
 </script>
 

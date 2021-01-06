@@ -4,10 +4,30 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div> -->
-    <router-view></router-view>
+    <router-view :year="year"></router-view>
     <!-- <router-view /> -->
   </div>
 </template>
+
+<script>
+export default {
+    name:'app',
+    data(){
+        return{
+            year:2021
+        }
+    },
+    mounted:function(){
+        this.getYear()
+    },
+    methods:{
+        getYear(){
+            let y=new Date()
+            this.year=y.getFullYear()
+        }
+    }
+}
+</script>
 
 <style lang="scss">
 html{font-size: 100px;}

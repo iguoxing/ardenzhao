@@ -23,7 +23,7 @@
         </div>
 
         <footer class="footer active">
-            <div class="bar-item copy-right">@2020 ZhaoGuoxing Inc.晋ICP备2020012780号</div>
+            <div class="bar-item copy-right">@{{year}} ZhaoGuoxing Inc.晋ICP备2020012780号</div>
         </footer>
 
     </div>
@@ -31,12 +31,10 @@
 
 <script>
 export default {
-  name: 'hello',
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App in 2017-07-13'
+    // 接受父组件的值
+    props: {
+      'year': Number
     }
-  }
 }
 </script>
 

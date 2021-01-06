@@ -92,13 +92,22 @@
                         <router-link to="/">
                              <a class="icon-logo" href="javascript:;"></a>
                         </router-link>
-                        <div class="bar-item copy-right">@2020 ZhaoGuoxing Inc.</div>
+                        <div class="bar-item copy-right">@{{year}} ZhaoGuoxing Inc.</div>
                     </div>
                 </footer>
             </div>
         </div>
     </div>
 </template>
+
+<script>
+export default {
+    // 接受父组件的值
+    props: {
+      'year': Number
+    }
+}
+</script>
 
 <style scoped>
 @import "../../assets/mobile/css/style.css";
