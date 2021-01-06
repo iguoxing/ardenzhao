@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*首页标题*/
+.mobile .container {
+  position: initial;
+}
+.mobile .navbar .bar-item.left .logo {
+  top: 0.21rem;
+  left: 0.33rem;
+}
+.mobile .mtIndexTitle .bigTitle {
+  font-size: 0.3rem;
+  font-family: HYQiHei-55;
+  color: #FFFFFF;
+  letter-spacing: 0.0125rem;
+  line-height: 0.48rem;
+}
+.mobile .mtIndexTitle .smallTitle {
+  margin-top: 0.05rem;
+  font-family: HYQiHei-45;
+  color: #FFFFFF;
+  font-size: 0.14rem;
+  letter-spacing: 0.027rem;
+}
+.footer-aboutUs {
+  bottom: 1.36rem;
+}

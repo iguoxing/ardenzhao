@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.navbar .bar-item.left .logo {
+    top: .6rem;
+}
+
+/*首页标题*/
+.icon-logo img {
+    width: 1.96rem;
+    height: .52rem;
+}
+.mtIndexTitle .bigTitle {
+    font-size: .48rem;
+    font-family: HYQiHei-55;
+}
+
+.mtIndexTitle .smallTitle {
+    margin-top: .1rem;
+    font-size: .16rem;
+    font-family: HYQiHei-45;
+    color: #FFFFFF;
+    letter-spacing: .032rem;
+}
+
+.mtAboutUsFisrtImage {
+    margin-top: 1.2rem;
+    padding-top: .8rem;
+}

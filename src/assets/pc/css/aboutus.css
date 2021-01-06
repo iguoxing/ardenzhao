@@ -1,0 +1,202 @@
+@charset "UTF-8";
+a {
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    text-decoration: none;
+    color: #2e7eea
+}
+
+a:hover {
+    color: #57aaed
+}
+
+a:active,
+a:hover {
+    outline-width: 0
+}
+/* 
+h1 {
+    font-size: 2em;
+    margin: .67em 0
+} */
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 400;
+    color: #47525d
+}
+
+
+/*关于我们*/
+/* 
+.landing-page .container {
+    width: 968px;
+} */
+
+.footerCommon .copy-right {
+    text-align: center;
+    height: auto;
+    padding-top: .6rem;
+    padding-bottom: .8rem;
+    font-family: Montserrat;
+    letter-spacing: .0052rem;
+}
+
+.footerCommon.active {
+    margin-top: .1rem;
+}
+
+.landing-page .child-page .main-title .container h2 {
+    font-size: .72rem;
+    margin-top: -.36rem;
+}
+
+.landing-page .child-page .second-describFirst {
+    width: 9.3rem;
+    text-align: center;
+    margin: .6rem auto -.4rem;
+    color: #6d7075;
+    font-size: .16rem;
+    font-family: HYQiHei-55;
+    line-height: .32rem;
+}
+
+.landing-page .child-page .second-describSecond {
+    width: 9.3rem;
+    text-align: center;
+    margin: .6rem auto 0;
+    color: #6d7075;
+    font-size: .16rem;
+    font-family: HYQiHei-55
+}
+
+.landing-page .child-page .second-describThird {
+    width: 9.3rem;
+    text-align: center;
+    margin: .45rem auto 0;
+    color: #6d7075;
+    font-size: .16rem;
+    font-family: HYQiHei-55
+}
+
+.landing-page .child-page .second-describ {
+    width: 9.3rem;
+    text-align: center;
+    margin: .3rem auto 0;
+    color: #6d7075;
+    font-size: .16rem;
+    font-family: HYQiHei-55
+}
+
+.landing-page .child-page .second-title {
+    width: 9.3rem;
+    text-align: center;
+    margin: 1.2rem auto -.3rem;
+    font-size: .28rem;
+    line-height: .32rem;
+    font-family: HYQiHei-55
+}
+
+.landing-page .child-page .item-list {
+    border-top: .01rem solid #d0d3d9;
+    padding-top: .8rem;
+    padding-bottom: .8rem;
+}
+
+.landing-page .child-page .image .zi-vertical2 {
+    width: 9.68rem;
+    height: 6.25rem;
+    margin-top: .4rem;
+    margin-bottom: 0;
+}
+
+.landing-page .child-page .item-list:first-child {
+    border-top: none
+}
+
+.landing-page .child-page .item-list .about-left {
+    width: 3.58rem;
+    float: left
+}
+
+.landing-page .child-page .item-list .about-left h4 {
+    font-family: HYQiHei-60;
+    font-size: .24rem;
+    color: #464D5C;
+    letter-spacing: .0025rem;
+}
+
+.landing-page .child-page .item-list .about-right {
+    margin-left: .39rem;
+    width: 5.7rem;
+    float: left
+}
+
+.landing-page .child-page .item-list .about-right p {
+    color: #6d7075;
+    font-size: .16rem;
+    line-height: .32rem;
+    margin-top: 0;
+    font-family: HYQiHei-55;
+    letter-spacing: 0;
+}
+
+.landing-page .child-page .item-list .about-right h5 {
+    font-size: .16rem;
+    color: #464d5c;
+    margin-top: .3rem;
+    margin-bottom: .15rem;
+    font-family: HYQiHei-60;
+    letter-spacing: 0;
+}
+
+.landing-page .child-page .image {
+    margin-bottom: -.2rem;
+}
+
+.landing-page .child-page .image .zi-vertical1 {
+    width: 9.68rem;
+    height: 5.13rem;
+    margin-top: .2rem;
+    margin-bottom: .2rem;
+}
+
+.landing-page .child-page .image .zi-vertical2 .zi-horizontal1 {
+    width: 4.64rem;
+    height: 6.25rem;
+    float: left;
+}
+
+.landing-page .child-page .image .zi-vertical2 .zi-horizontal2 {
+    width: 4.64rem;
+    height: 6.25rem;
+    float: left;
+    margin-left: .4rem;
+}
+
+.landing-page .child-page .item-list .about-right ul {
+    margin-bottom: .25rem;
+}
+
+.landing-page .child-page .item-list .about-right ul li {
+    margin-top: .2rem;
+    margin-bottom: 0;
+    font-size: .15rem;
+    color: #6d7075;
+    line-height: .32rem;
+    margin-left: .18rem;
+    list-style: inherit;
+}
+
+
+/*链接样式*/
+
+.landing-page .about,
+.landing-page .help .container,
+.landing-page .jobs,
+.landing-page .privacy {
+    min-width: 9.68rem;
+}

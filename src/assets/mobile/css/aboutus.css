@@ -1,0 +1,182 @@
+@charset "UTF-8";
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+  text-decoration: none;
+  color: #2e7eea;
+}
+a:hover {
+  color: #57aaed;
+}
+a:active,
+a:hover {
+  outline-width: 0;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 400;
+  color: #47525d;
+}
+.mobile .mtAboutUsFisrtImage {
+  margin-top: 0.5rem;
+  padding-top: 0.4rem;
+  text-align: center;
+}
+.mobile .footerCommon .copy-right {
+  text-align: center;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  font-family: HYQiHei-55;
+  font-size: 0.12rem;
+  letter-spacing: 0.0044rem;
+}
+.mobile .footerCommon.active {
+  margin-top: 0;
+}
+.mobile .landing-page .child-page .main-title {
+  height: 1.78rem;
+}
+.mobile .landing-page .child-page .main-title .container h2 {
+  font-size: 0.28rem;
+  margin-top: -0.14rem;
+}
+.mobile .landing-page .child-page .second-describFirst {
+  width: 3.1rem;
+  text-align: left;
+  margin: 0.26rem auto 0;
+  font-family: HYQiHei-55;
+  font-size: 0.14rem;
+  color: #6D7075;
+  letter-spacing: 0;
+  line-height: 0.24rem;
+}
+.mobile .landing-page .child-page .second-describSecond {
+  width: 3.1rem;
+  text-align: left;
+  margin: 0.26rem auto 0.1rem;
+  font-family: HYQiHei-55;
+  font-size: 0.14rem;
+  color: #6D7075;
+  letter-spacing: 0;
+  line-height: 0.24rem;
+}
+.mobile .landing-page .child-page .second-describThird {
+  width: 3.1rem;
+  text-align: left;
+  margin: 0.14rem auto 0;
+  font-family: HYQiHei-55;
+  font-size: 0.14rem;
+  color: #9DA2AD;
+  letter-spacing: 0;
+  line-height: 0.24rem;
+}
+.mobile .landing-page .child-page h2 {
+  width: 3.1rem;
+  text-align: center;
+  margin: 0.3rem auto 0;
+  font-family: HYQiHei-55;
+  line-height: 0.24rem;
+  font-size: 0.14rem;
+  color: #6D7075;
+  letter-spacing: 0;
+}
+.mobile .landing-page .child-page .second-describ {
+  width: 3.1rem;
+  text-align: left;
+  margin: 0.14rem auto 0;
+  color: #9DA2AD;
+  font-size: 0.14rem;
+  font-family: HYQiHei-55;
+  letter-spacing: 0;
+  line-height: 0.24rem;
+}
+.mobile .landing-page .child-page .second-title {
+  width: 3.1rem;
+  text-align: center;
+  margin: 0.5rem auto -0.1rem;
+  line-height: 0.32rem;
+  font-family: HYQiHei-55;
+  font-size: 0.18rem;
+  color: #464D5C;
+  letter-spacing: 0.0192rem;
+}
+.mobile .landing-page .child-page .item-list {
+  border-top: 0.01rem solid #d0d3d9;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-align: center;
+  position: relative;
+  left: 50%;
+  margin-left: -1.55rem;
+  width: 3.1rem;
+}
+.mobile .landing-page .child-page .item-list:first-child {
+  border-top: none;
+}
+.mobile .landing-page .child-page .item-list .infoTitle {
+  font-family: HYQiHei-60;
+  font-size: 0.18rem;
+  color: #464D5C;
+  letter-spacing: 0.0192rem;
+}
+.mobile .landing-page .child-page .item-list .infoInfo {
+  font-family: HYQiHei-55;
+  font-size: 0.14rem;
+  color: #6D7075;
+  letter-spacing: 0;
+  line-height: 0.24rem;
+  margin-top: 0.16rem;
+  width: 3.1rem;
+  text-align: left;
+}
+.mobile .landing-page .child-page .item-list .infoInfo h5 {
+  font-family: HYQiHei-60;
+  text-align: left;
+  font-size: 0.14rem;
+  color: #464D5C;
+  letter-spacing: 0;
+  margin-top: 0.26rem;
+}
+.mobile .landing-page .child-page .item-list .infoInfo p {
+  font-family: HYQiHei-55;
+  line-height: 0.24rem;
+  margin-top: 0.1rem;
+  width: 3.1rem;
+  text-align: left;
+  font-size: 0.14rem;
+  color: #6D7075;
+  letter-spacing: 0;
+}
+.mobile .landing-page .child-page .image .zi-vertical1 {
+  width: 3.1rem;
+  height: 1.65rem;
+}
+.mobile .landing-page .child-page .zi-vertical2 {
+  margin-top: 0.13rem;
+  margin-bottom: 0;
+  height: 2rem;
+}
+.mobile .landing-page .child-page .zi-vertical2 .zi-horizontal1 {
+  width: 1.48rem;
+  height: 2rem;
+  float: left;
+}
+.mobile .landing-page .child-page .zi-vertical2 .zi-horizontal2 {
+  width: 1.48rem;
+  height: 2rem;
+  float: left;
+  margin-left: 0.13rem;
+}
+.landing-page .about,
+.landing-page .help .container,
+.landing-page .jobs,
+.landing-page .privacy {
+  min-width: 100%;
+}
