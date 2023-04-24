@@ -23,7 +23,7 @@
         </div>
 
         <footer class="footer active">
-            <div class="bar-item copy-right">@{{year}} ZhaoGuoxing Inc.晋ICP备2020012780号</div>
+            <div class="bar-item copy-right">@{{year}} ZhaoGuoxing Inc.<a style="color: #fff;" target="_blank" href="https://beian.miit.gov.cn/">晋ICP备2020012780号-1</a></div>
         </footer>
 
     </div>
